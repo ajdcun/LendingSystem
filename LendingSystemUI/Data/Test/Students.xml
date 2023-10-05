@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <FirstName>Name1</FirstName>
+    <LastName>Nachname1</LastName>
+    <Adress>
+      <Street>Straße1</Street>
+      <Number>Hausnummer1</Number>
+      <ZipCode>PLZ1</ZipCode>
+      <City>Stadt1</City>
+    </Adress>
+    <Mail>Name1@Nachname1.de</Mail>
+  </Student>
+  <Student>
+    <FirstName>Name2</FirstName>
+    <LastName>Nachname2</LastName>
+    <Adress>
+      <Street>Straße2</Street>
+      <Number>Hausnummer2</Number>
+      <ZipCode>PLZ2</ZipCode>
+      <City>Stadt2</City>
+    </Adress>
+    <Mail>Name2@Nachname2.de</Mail>
+  </Student>
+</ArrayOfStudent>

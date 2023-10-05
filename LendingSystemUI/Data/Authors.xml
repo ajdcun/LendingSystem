@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAuthor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Author>
+    <FirstName>Name1</FirstName>
+    <LastName>Nachname1</LastName>
+  </Author>
+  <Author>
+    <FirstName>Name2</FirstName>
+    <LastName>Nachname2</LastName>
+  </Author>
+  <Author>
+    <FirstName>fdsfdsf</FirstName>
+    <LastName>dsfdsfsdf</LastName>
+  </Author>
+</ArrayOfAuthor>

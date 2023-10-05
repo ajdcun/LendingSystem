@@ -1,0 +1,287 @@
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.csproj.AssemblyReference.cache
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\Views\AuthorView.g.cs
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\Views\BookView.g.cs
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\Views\LendingView.g.cs
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\Views\StudentView.g.cs
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI_MarkupCompile.cache
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI_MarkupCompile.lref
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI_Content.g.cs
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\bin\Debug\net7.0-windows\LendingSystemUI.exe
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\bin\Debug\net7.0-windows\LendingSystemUI.deps.json
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\bin\Debug\net7.0-windows\LendingSystemUI.runtimeconfig.json
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\bin\Debug\net7.0-windows\LendingSystemUI.dll
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\bin\Debug\net7.0-windows\LendingSystemUI.pdb
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\bin\Debug\net7.0-windows\Haley.Abstractions.dll
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\bin\Debug\net7.0-windows\Haley.Extensions.dll
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\bin\Debug\net7.0-windows\Haley.Helpers.dll
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\bin\Debug\net7.0-windows\Haley.IOC.dll
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\bin\Debug\net7.0-windows\Haley.MVVM.dll
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\bin\Debug\net7.0-windows\protobuf-net.dll
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\bin\Debug\net7.0-windows\protobuf-net.Core.dll
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\bin\Debug\net7.0-windows\System.Management.dll
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\bin\Debug\net7.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\bin\Debug\net7.0-windows\System.Text.Json.dll
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\Views\AuthorView.baml
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\Views\BookView.baml
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\Views\LendingView.baml
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\Views\StudentView.baml
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.g.resources
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.AssemblyInfoInputs.cache
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.AssemblyInfo.cs
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.csproj.CoreCompileInputs.cache
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.csproj.CopyComplete
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.dll
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\refint\LendingSystemUI.dll
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.pdb
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.genruntimeconfig.cache
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\ref\LendingSystemUI.dll
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\Views\HomeView.g.cs
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\App.baml
+C:\Users\ajdcu\source\repos\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\Views\HomeView.baml
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\bin\Debug\net7.0-windows\LendingSystemUI.exe
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\bin\Debug\net7.0-windows\LendingSystemUI.deps.json
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\bin\Debug\net7.0-windows\LendingSystemUI.runtimeconfig.json
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\bin\Debug\net7.0-windows\LendingSystemUI.dll
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\bin\Debug\net7.0-windows\LendingSystemUI.pdb
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\bin\Debug\net7.0-windows\Haley.Abstractions.dll
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\bin\Debug\net7.0-windows\Haley.Extensions.dll
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\bin\Debug\net7.0-windows\Haley.Helpers.dll
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\bin\Debug\net7.0-windows\Haley.IOC.dll
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\bin\Debug\net7.0-windows\Haley.MVVM.dll
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\bin\Debug\net7.0-windows\protobuf-net.dll
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\bin\Debug\net7.0-windows\protobuf-net.Core.dll
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\bin\Debug\net7.0-windows\System.Management.dll
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\bin\Debug\net7.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\bin\Debug\net7.0-windows\System.Text.Json.dll
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.csproj.AssemblyReference.cache
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\Views\AuthorView.g.cs
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\Views\BookView.g.cs
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\Views\HomeView.g.cs
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\Views\LendingView.g.cs
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\Views\StudentView.g.cs
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI_Content.g.cs
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI_MarkupCompile.cache
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI_MarkupCompile.lref
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\App.baml
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\Views\AuthorView.baml
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\Views\BookView.baml
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\Views\HomeView.baml
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\Views\LendingView.baml
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\Views\StudentView.baml
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.g.resources
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.AssemblyInfoInputs.cache
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.AssemblyInfo.cs
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.csproj.CoreCompileInputs.cache
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.csproj.CopyComplete
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.dll
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\refint\LendingSystemUI.dll
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.pdb
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.genruntimeconfig.cache
+C:\Users\ajdcu\Desktop\LendingSystemUI\LendingSystemUI\obj\Debug\net7.0-windows\ref\LendingSystemUI.dll
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\bin\Debug\net7.0-windows\LendingSystemUI.exe
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\bin\Debug\net7.0-windows\LendingSystemUI.deps.json
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\bin\Debug\net7.0-windows\LendingSystemUI.runtimeconfig.json
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\bin\Debug\net7.0-windows\LendingSystemUI.dll
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\bin\Debug\net7.0-windows\LendingSystemUI.pdb
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\bin\Debug\net7.0-windows\Haley.Abstractions.dll
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\bin\Debug\net7.0-windows\Haley.Extensions.dll
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\bin\Debug\net7.0-windows\Haley.Helpers.dll
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\bin\Debug\net7.0-windows\Haley.IOC.dll
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\bin\Debug\net7.0-windows\Haley.MVVM.dll
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\bin\Debug\net7.0-windows\protobuf-net.dll
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\bin\Debug\net7.0-windows\protobuf-net.Core.dll
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\bin\Debug\net7.0-windows\System.Management.dll
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\bin\Debug\net7.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\bin\Debug\net7.0-windows\System.Text.Json.dll
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.csproj.AssemblyReference.cache
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\obj\Debug\net7.0-windows\Views\AuthorView.g.cs
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\obj\Debug\net7.0-windows\Views\BookView.g.cs
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\obj\Debug\net7.0-windows\Views\LendingView.g.cs
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\obj\Debug\net7.0-windows\Views\StudentView.g.cs
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI_MarkupCompile.cache
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI_MarkupCompile.lref
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\obj\Debug\net7.0-windows\App.baml
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\obj\Debug\net7.0-windows\Views\AuthorView.baml
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\obj\Debug\net7.0-windows\Views\BookView.baml
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\obj\Debug\net7.0-windows\Views\LendingView.baml
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\obj\Debug\net7.0-windows\Views\StudentView.baml
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.g.resources
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.AssemblyInfoInputs.cache
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.AssemblyInfo.cs
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.csproj.CoreCompileInputs.cache
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.csproj.CopyComplete
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.dll
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\obj\Debug\net7.0-windows\refint\LendingSystemUI.dll
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.pdb
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.genruntimeconfig.cache
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\obj\Debug\net7.0-windows\ref\LendingSystemUI.dll
+C:\Users\ajdcu\Desktop\LendingSystemUI\bin\Debug\net7.0-windows\LendingSystemUI.exe
+C:\Users\ajdcu\Desktop\LendingSystemUI\bin\Debug\net7.0-windows\LendingSystemUI.deps.json
+C:\Users\ajdcu\Desktop\LendingSystemUI\bin\Debug\net7.0-windows\LendingSystemUI.runtimeconfig.json
+C:\Users\ajdcu\Desktop\LendingSystemUI\bin\Debug\net7.0-windows\LendingSystemUI.dll
+C:\Users\ajdcu\Desktop\LendingSystemUI\bin\Debug\net7.0-windows\LendingSystemUI.pdb
+C:\Users\ajdcu\Desktop\LendingSystemUI\bin\Debug\net7.0-windows\Haley.Abstractions.dll
+C:\Users\ajdcu\Desktop\LendingSystemUI\bin\Debug\net7.0-windows\Haley.Extensions.dll
+C:\Users\ajdcu\Desktop\LendingSystemUI\bin\Debug\net7.0-windows\Haley.Helpers.dll
+C:\Users\ajdcu\Desktop\LendingSystemUI\bin\Debug\net7.0-windows\Haley.IOC.dll
+C:\Users\ajdcu\Desktop\LendingSystemUI\bin\Debug\net7.0-windows\Haley.MVVM.dll
+C:\Users\ajdcu\Desktop\LendingSystemUI\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\ajdcu\Desktop\LendingSystemUI\bin\Debug\net7.0-windows\protobuf-net.dll
+C:\Users\ajdcu\Desktop\LendingSystemUI\bin\Debug\net7.0-windows\protobuf-net.Core.dll
+C:\Users\ajdcu\Desktop\LendingSystemUI\bin\Debug\net7.0-windows\System.Management.dll
+C:\Users\ajdcu\Desktop\LendingSystemUI\bin\Debug\net7.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\ajdcu\Desktop\LendingSystemUI\bin\Debug\net7.0-windows\System.Text.Json.dll
+C:\Users\ajdcu\Desktop\LendingSystemUI\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\ajdcu\Desktop\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.csproj.AssemblyReference.cache
+C:\Users\ajdcu\Desktop\LendingSystemUI\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\ajdcu\Desktop\LendingSystemUI\obj\Debug\net7.0-windows\Views\AuthorView.g.cs
+C:\Users\ajdcu\Desktop\LendingSystemUI\obj\Debug\net7.0-windows\Views\BookView.g.cs
+C:\Users\ajdcu\Desktop\LendingSystemUI\obj\Debug\net7.0-windows\Views\HomeView.g.cs
+C:\Users\ajdcu\Desktop\LendingSystemUI\obj\Debug\net7.0-windows\Views\LendingView.g.cs
+C:\Users\ajdcu\Desktop\LendingSystemUI\obj\Debug\net7.0-windows\Views\StudentView.g.cs
+C:\Users\ajdcu\Desktop\LendingSystemUI\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\ajdcu\Desktop\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI_Content.g.cs
+C:\Users\ajdcu\Desktop\LendingSystemUI\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ajdcu\Desktop\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI_MarkupCompile.cache
+C:\Users\ajdcu\Desktop\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI_MarkupCompile.lref
+C:\Users\ajdcu\Desktop\LendingSystemUI\obj\Debug\net7.0-windows\App.baml
+C:\Users\ajdcu\Desktop\LendingSystemUI\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\ajdcu\Desktop\LendingSystemUI\obj\Debug\net7.0-windows\Views\AuthorView.baml
+C:\Users\ajdcu\Desktop\LendingSystemUI\obj\Debug\net7.0-windows\Views\BookView.baml
+C:\Users\ajdcu\Desktop\LendingSystemUI\obj\Debug\net7.0-windows\Views\HomeView.baml
+C:\Users\ajdcu\Desktop\LendingSystemUI\obj\Debug\net7.0-windows\Views\LendingView.baml
+C:\Users\ajdcu\Desktop\LendingSystemUI\obj\Debug\net7.0-windows\Views\StudentView.baml
+C:\Users\ajdcu\Desktop\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.g.resources
+C:\Users\ajdcu\Desktop\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajdcu\Desktop\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.AssemblyInfoInputs.cache
+C:\Users\ajdcu\Desktop\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.AssemblyInfo.cs
+C:\Users\ajdcu\Desktop\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.csproj.CoreCompileInputs.cache
+C:\Users\ajdcu\Desktop\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.csproj.CopyComplete
+C:\Users\ajdcu\Desktop\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.dll
+C:\Users\ajdcu\Desktop\LendingSystemUI\obj\Debug\net7.0-windows\refint\LendingSystemUI.dll
+C:\Users\ajdcu\Desktop\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.pdb
+C:\Users\ajdcu\Desktop\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.genruntimeconfig.cache
+C:\Users\ajdcu\Desktop\LendingSystemUI\obj\Debug\net7.0-windows\ref\LendingSystemUI.dll
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\obj\Debug\net7.0-windows\Views\HomeView.g.cs
+C:\Users\ajdcu\source\repos\Lending System\LendingSystemUI\obj\Debug\net7.0-windows\Views\HomeView.baml
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\LendingSystemUI.exe
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\LendingSystemUI.deps.json
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\LendingSystemUI.runtimeconfig.json
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\LendingSystemUI.dll
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\LendingSystemUI.pdb
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\Haley.Abstractions.dll
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\Haley.Extensions.dll
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\Haley.Helpers.dll
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\Haley.IOC.dll
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\Haley.MVVM.dll
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\protobuf-net.dll
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\protobuf-net.Core.dll
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\System.Management.dll
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\System.Text.Json.dll
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.csproj.AssemblyReference.cache
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\Styles\ButtonStyles.baml
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\MVVM\Views\AuthorView.g.cs
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\MVVM\Views\BookView.g.cs
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\MVVM\Views\HomeView.g.cs
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\MVVM\Views\LendingView.g.cs
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\MVVM\Views\MainWindow.g.cs
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\MVVM\Views\StudentView.g.cs
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI_MarkupCompile.cache
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI_MarkupCompile.lref
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\App.baml
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\MVVM\Views\AuthorView.baml
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\MVVM\Views\BookView.baml
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\MVVM\Views\HomeView.baml
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\MVVM\Views\LendingView.baml
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\MVVM\Views\MainWindow.baml
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\MVVM\Views\StudentView.baml
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.g.resources
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.AssemblyInfoInputs.cache
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.AssemblyInfo.cs
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.csproj.CoreCompileInputs.cache
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.csproj.CopyComplete
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.dll
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\refint\LendingSystemUI.dll
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.pdb
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.genruntimeconfig.cache
+C:\Users\ajdcu\source\repos\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\ref\LendingSystemUI.dll
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\LendingSystemUI.exe
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\LendingSystemUI.deps.json
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\LendingSystemUI.runtimeconfig.json
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\LendingSystemUI.dll
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\LendingSystemUI.pdb
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\Castle.Core.dll
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\Haley.Abstractions.dll
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\Haley.Extensions.dll
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\Haley.Helpers.dll
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\Haley.IOC.dll
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\Haley.MVVM.dll
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\Moq.dll
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\nunit.framework.dll
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\protobuf-net.dll
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\protobuf-net.Core.dll
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\System.Management.dll
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\System.Security.Cryptography.Xml.dll
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.csproj.AssemblyReference.cache
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\MVVM\Views\AuthorView.g.cs
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\MVVM\Views\BookView.g.cs
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\MVVM\Views\HomeView.g.cs
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\MVVM\Views\LendingView.g.cs
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\MVVM\Views\MainWindow.g.cs
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\MVVM\Views\StudentView.g.cs
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\App.g.cs
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI_MarkupCompile.cache
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI_MarkupCompile.lref
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\App.baml
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\MVVM\Views\AuthorView.baml
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\MVVM\Views\BookView.baml
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\MVVM\Views\HomeView.baml
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\MVVM\Views\LendingView.baml
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\MVVM\Views\MainWindow.baml
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\MVVM\Views\StudentView.baml
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\Styles\ButtonStyles.baml
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.g.resources
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.AssemblyInfoInputs.cache
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.AssemblyInfo.cs
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.csproj.CoreCompileInputs.cache
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.csproj.CopyComplete
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.dll
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\refint\LendingSystemUI.dll
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.pdb
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\LendingSystemUI.genruntimeconfig.cache
+C:\Checkouts\Entwicklung\projects\C#\LendingSystem\LendingSystemUI\obj\Debug\net7.0-windows\ref\LendingSystemUI.dll

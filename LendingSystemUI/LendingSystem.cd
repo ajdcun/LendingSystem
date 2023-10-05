@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Model&#xD;&#xA;">
+    <Position X="7.461" Y="14.49" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="ViewModel&#xD;&#xA;">
+    <Position X="14.137" Y="14.499" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="Core&#xD;&#xA;">
+    <Position X="12.491" Y="16.16" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="Services&#xD;&#xA;">
+    <Position X="7.947" Y="16.726" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="View&#xD;&#xA;">
+    <Position X="11.381" Y="14.528" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="Student&#xD;&#xA;">
+    <Position X="5.427" Y="11.572" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="Book&#xD;&#xA;">
+    <Position X="5.478" Y="12.494" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="Author&#xD;&#xA;">
+    <Position X="5.47" Y="10.495" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="Lending&#xD;&#xA;">
+    <Position X="5.46" Y="13.514" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="MVVM&#xD;&#xA;">
+    <Position X="7.504" Y="6.284" Height="0.981" Width="8.399" />
+  </Comment>
+  <Comment CommentText="Home&#xD;&#xA;">
+    <Position X="5.486" Y="9.519" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="Main&#xD;&#xA;">
+    <Position X="5.5" Y="8.5" Height="0.75" Width="1.7" />
+  </Comment>
+  <Class Name="LendingSystemUI.ViewModels.BaseItemViewModel&lt;T&gt;" Collapsed="true">
+    <Position X="14.25" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAIIAAJAIACAxBAQgCACQE4BBAABAIAABAAABQRAQ=</HashCode>
+      <FileName>Core\BaseItemViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LendingSystemUI.ViewModels.AuthorViewModel" Collapsed="true">
+    <Position X="14.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAABAAAAAAAAQAAAAAAIAAAAAAAABAQ=</HashCode>
+      <FileName>MVVM\ViewModels\AuthorViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LendingSystemUI.ViewModels.BookViewModel" Collapsed="true">
+    <Position X="14.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAABBIAACAAAAwAIAAAAIAAAIAAAABAY=</HashCode>
+      <FileName>MVVM\ViewModels\BookViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LendingSystemUI.ViewModels.HomeViewModel" Collapsed="true">
+    <Position X="14.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAABIIAAACAAAAAAAAAoARAAFAAAgCAAABAwAQ=</HashCode>
+      <FileName>MVVM\ViewModels\HomeViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LendingSystemUI.ViewModels.LendingViewModel" Collapsed="true">
+    <Position X="14.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAQIAABEAgABAAAQAAAAACIAQCIgQABBCQ=</HashCode>
+      <FileName>MVVM\ViewModels\LendingViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LendingSystemUI.ViewModels.MainViewModel" Collapsed="true">
+    <Position X="14.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAIAAAAAAAAAAAAAIABAABAAAAAAAAAAQAA=</HashCode>
+      <FileName>MVVM\ViewModels\MainViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LendingSystemUI.ViewModels.StudentViewModel" Collapsed="true">
+    <Position X="14.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAABAAAAAAAAQAAAAAAIAAAAAAAABAQ=</HashCode>
+      <FileName>MVVM\ViewModels\StudentViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LendingSystemUI.Core.BaseViewModel" Collapsed="true">
+    <Position X="12.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\BaseViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LendingSystemUI.Models.Author" Collapsed="true">
+    <Position X="7.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>MVVM\Models\Author.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LendingSystemUI.Models.Book" Collapsed="true">
+    <Position X="7.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAEAAiAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\Models\Book.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LendingSystemUI.Models.Lending" Collapsed="true">
+    <Position X="7.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAABAAAAAAAAAIAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\Models\Lending.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LendingSystemUI.Models.Adress" Collapsed="true">
+    <Position X="9.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAEAAAAAAAAAAAAABAAIAAAAAAAA=</HashCode>
+      <FileName>MVVM\Models\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LendingSystemUI.Models.Student" Collapsed="true">
+    <Position X="7.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAQAAAAg=</HashCode>
+      <FileName>MVVM\Models\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LendingSystemUI.Views.AuthorView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\Views\AuthorView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.364" Collapsed="true" />
+  </Class>
+  <Class Name="LendingSystemUI.Views.BookView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\Views\BookView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="LendingSystemUI.Views.HomeView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\Views\HomeView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.263" Collapsed="true" />
+  </Class>
+  <Class Name="LendingSystemUI.Views.LendingView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\Views\LendingView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="LendingSystemUI.Views.StudentView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\Views\StudentView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="LendingSystemUI.MainWindow" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\Views\MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="LendingSystemUI.App" Collapsed="true">
+    <Position X="11.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LendingSystemUI.Services.LoggerService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAQAAEAAAAAAAIAAIAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Services\LoggerService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LendingSystemUI.Services.NavigationService" Collapsed="true">
+    <Position X="6.25" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAACAAAAAAAACAGAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\NavigationService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LendingSystemUI.Services.XmlDataService" Collapsed="true">
+    <Position X="9.75" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQJAAAAAAAAAEQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\DataService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LendingSystemUI.Services.SqlDataService" Collapsed="true">
+    <Position X="9.75" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQBAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\DataService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="LendingSystemUI.Services.ILoggerService" Collapsed="true">
+    <Position X="8" Y="20" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAIAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\LoggerService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="LendingSystemUI.Services.INavigationService" Collapsed="true">
+    <Position X="9.75" Y="20" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\NavigationService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="LendingSystemUI.Services.IDataService" Collapsed="true">
+    <Position X="6.25" Y="20" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQBAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\DataService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

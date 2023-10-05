@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LendingSystemUI", "LendingSystemUI\LendingSystemUI.csproj", "{EE0AB505-7FB7-44A0-84C0-0D4B51D5C5C0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LendingSystemTest", "LendingSystemTest\LendingSystemTest.csproj", "{A928719F-4143-4723-AA04-F2AB81F11D32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE0AB505-7FB7-44A0-84C0-0D4B51D5C5C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE0AB505-7FB7-44A0-84C0-0D4B51D5C5C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE0AB505-7FB7-44A0-84C0-0D4B51D5C5C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE0AB505-7FB7-44A0-84C0-0D4B51D5C5C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A928719F-4143-4723-AA04-F2AB81F11D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A928719F-4143-4723-AA04-F2AB81F11D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A928719F-4143-4723-AA04-F2AB81F11D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A928719F-4143-4723-AA04-F2AB81F11D32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B673689-1D40-4C4C-A5AB-479B3F7174D8}
+	EndGlobalSection
+EndGlobal
