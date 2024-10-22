@@ -1,13 +1,12 @@
 <a id="readme-top"></a>
+
 <h3 align="center">Lending System</h3>
+<p align="center"> Lending books in a student library (example app) </p>
 
 <!-- TECH STACK -->
 ## Tech Stack
-
 [![Csharp][Csharp-Shield]][Csharp-Url]
-
 [![dotNET][dotNET-Shield]][dotNET-Url]
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
