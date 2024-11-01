@@ -1,23 +1,24 @@
-<a id="readme-top"></a>
-
 <h3 align="center">Lending System</h3>
 <p align="center"> Lending books in a student library (example app) </p>
+
+<!-- DESCRIPTION -->
+## Description
+- Developing a Windows application for borrowing books
+- Using database, dependency injection and design patterns
+- Logging and data backup in XML data
 
 <!-- TECH STACK -->
 ## Tech Stack
 [![Csharp][Csharp-Shield]][Csharp-Url]
 [![dotNET][dotNET-Shield]][dotNET-Url]
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
 [![License][License-Shield]][License-Url]
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- VERSION -->
 ## App Version
 ![Version][Version-Shield]
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
